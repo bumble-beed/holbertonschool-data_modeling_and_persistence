@@ -1,0 +1,2 @@
+DELETE from books
+where id = 8;

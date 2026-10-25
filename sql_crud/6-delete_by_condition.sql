@@ -1,0 +1,2 @@
+DELETE from books
+where stock = 0;
