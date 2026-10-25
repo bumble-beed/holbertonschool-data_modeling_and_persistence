@@ -1,2 +1,3 @@
-SELECT title, author from books
-where genre = 'Tech';
+SELECT title, author
+  FROM books
+  where genre = 'Tech';
