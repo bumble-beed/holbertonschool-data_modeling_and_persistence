@@ -1,1 +1,3 @@
-UPDATE books set price = 35.00 where id = 3; 
+UPDATE books
+  SET price = 35.00 
+  where id = 3;
