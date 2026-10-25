@@ -1,1 +1,1 @@
-SELECT TOTAL(stock) from books;
+SELECT SUM(stock) from books;
