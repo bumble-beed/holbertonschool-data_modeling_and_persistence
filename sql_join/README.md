@@ -3,27 +3,26 @@
 By the end of this project, you should be able to:
 
 1. Understand relationships:
-        -   1–1, 
-        -   1–N, 
-        -   N–N
+- 1–1,
+- 1–N,
+- N–N
 2. Distinguish between:
-        -   primary key
-        -   foreign key
+- primary key
+- foreign key
 3. Understand referential integrity (conceptually)
+4. Write queries using:
+- INNER JOIN
+- LEFT JOIN
+- CROSS JOIN
+5. Interpret NULL values in joins
+6. Work with junction tables
+7. Use subqueries in filtering and comparisons
 
-    Write queries using:
-        INNER JOIN
-        LEFT JOIN
-        CROSS JOIN
-
-    Interpret NULL values in joins
-
-    Work with junction tables
-
-    Use subqueries in filtering and comparisons
-
-Resources
-
+#### Resources
+-  	[sql lite - language select](https://www.sqlite.org/lang_select.html)
+-  	 	[title](https://www.example.com)
+-  	[title](https://www.example.com)
+-  	 	[title](https://www.example.com)
     https://www.sqlite.org/lang_select.html
     https://www.sqlite.org/foreignkeys.html
     https://www.sqlite.org/lang_expr.html
