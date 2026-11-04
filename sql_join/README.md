@@ -1,4 +1,4 @@
-## iLearning Objectives
+## Learning Objectives
 
 By the end of this project, you should be able to:
 
