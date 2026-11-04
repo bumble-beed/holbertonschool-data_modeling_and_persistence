@@ -35,17 +35,3 @@ Tables:
 | name | title | name | title | course_id |
 | country | author_id | | | |
 | | price |  | | | |
-
-
-
-
-courses
-
-    id
-    title
-
-
-
-    
-    course_id
-
