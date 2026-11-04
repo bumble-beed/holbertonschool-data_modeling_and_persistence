@@ -25,7 +25,7 @@ By the end of this project, you should be able to:
 -  	[SQL Lite - Joins](https://www.w3schools.com/sql/sql_join.asp)
 
 Provided Files
-You will be using the following dataset: library.db
+You will be using the following dataset:
 [library.db](https://github.com/hbtn-edu/public_resources/blob/main/3918-sql_join/library.db)
 
 Tables:
